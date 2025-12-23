@@ -12,15 +12,16 @@ public class Main {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
+            System.out.println("---");
             System.out.println("22222");
             System.out.println("3333");
             System.out.println("4444");
         }
 
         public static void doSmth {
+            System.out.println("0");
             System.out.println("1");
-            System.out.println("2");
-            System.out.println("3");
+            System.out.println("1");
         }
     }
 }
