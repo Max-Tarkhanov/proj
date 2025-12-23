@@ -15,12 +15,13 @@ public class Main {
             System.out.println("22222");
             System.out.println("3333");
             System.out.println("4444");
+            System.out.println("---");
         }
 
         public static void doSmth {
             System.out.println("1");
-            System.out.println("2");
-            System.out.println("3");
+            System.out.println("0");
+            System.out.println("0");
         }
     }
 }
